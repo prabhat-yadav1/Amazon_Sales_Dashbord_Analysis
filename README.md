@@ -8,4 +8,4 @@ In the Top States by Sales, regions like Maharashtra, Karnataka, and Telangana c
 
 The size distribution indicates that M, L, and XL are the most popular sizes. Lastly, the fulfilment section shows Amazon handles most deliveries compared to merchants. Overall, the dashboard helps in understanding sales patterns, customer preferences, and operational efficiency.
 
-
+![image alt](https://github.com/prabhat-yadav1/Amazon_Sales_Dashbord_Analysis/blob/0836bd5cc2ea8b55bebeb24306623739eff7e72e/Amzon%20dashbord%20img.png?raw=true)
